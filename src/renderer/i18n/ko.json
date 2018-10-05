@@ -1,0 +1,16 @@
+{
+    "app_name": "R6DB",
+    "login": "로그인",
+    "email": "이메일",
+    "password": "비밀번호",
+    "rememberMe": "계정 정보 저장",
+    "thisisimportant": "중요!",
+    "login/letsgetstarted": "실행중...",
+    "login/entercredentials": "유비소프트 자격증명을 입력해주시기 바랍니다.",
+    "login/whydoyouneed": "왜 로그인 데이터가 필요합니까?",
+    "login/popup/paragraph1": "이 앱을 이용하기 위해서는 <b>유비소프트 자격증명</b> 이 필요합니다.",
+    "login/popup/paragraph2": "그 이유는 유비소프트의 API는 인증이 없을 경우 사용자의 데이터를 이용할 수 없기 때문에 이러한 이유로 <em>오직 독점적으로</em> 자격증명을 이용합니다. <br />",
+    "login/popup/paragraph2link": "우리는 오픈소스 앱을 목적으로 개발하였기에 {codeBase} 에서 모든 소스를 확인할 수 있습니다.",
+    "login/popup/paragraph3": "만약 이러한것에 불편함을 느낀다면, {ubiAccount} 를 자격증명 대신 사용할 수 있습니다.",
+    "login/popup/paragraph4": "사용하는 모든 계정에 대해 <b>2 단계 인증</b>을 사용하고 강력하고 고유한 비밀번호를 사용하도록 <em>매우 권장합니다</em> ."
+}
